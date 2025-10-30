@@ -1,0 +1,31 @@
+<!-- FOOTER SECTION -->
+ <footer>
+    <div class="container">
+<a id="logo" href="./"><img src="img/The bottom image name.png"  alt="jQuery Logo" width=193px height=69px></a>
+
+<!--Left side navigation menu-->
+        <ul class="footer-nav">
+            <li><a href="Event.php">EVENT</a></li>
+            <li><a href="Hide.php">HIDE</a></li>
+            <li><a href="Slide.php">SLIDE</a></li>
+            <li><a href="Animate.php">ANIMATE</a></li>
+            <li><a href="Stop.php">STOP</a></li>
+            <li><a href="Scroll.php">SCROLL</a></li>
+            <li><a href="Show.php">SHOW</a></li>
+            <li><a href="GetSet.php">GET/SET</a></li>
+            <li><a href="Append.php">APPEND</a></li>
+        </ul>
+
+        <!--Right side navigation menu>
+        <ul class="right-nav">
+            <li><a href="login.html">Login</a></li>
+            <li><a href="#"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=50&layout&action&size&share=true&height=35&appId"></iframe></a></li>
+        </ul-->
+</div>
+    </footer>
+    </section>
+    
+            </div>
+
+    </div>
+    </section>

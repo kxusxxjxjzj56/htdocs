@@ -1,13 +1,15 @@
 <?php
-include('./includes/meta.php');
-include('./includes/head.php');
-include('./includes/topNav.php');
-include('./includes/hero.php');
+include './includes/head.php';
+include './includes/topNav.php';
+include './includes/heroStop.php';
+include './includes/meta.php';
 ?>
+
 <!-- HTML AND JQUERY CODE GOES HERE -->
-    <h1 style="text-align:center">Stop</h1>
+<h1 style="text-align:center">Stop</h1>
 <script>
 
 </script>
 <?php
-include('./includes/bottomNav.php');
+include './includes/bottomNav.php';
+
