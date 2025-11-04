@@ -1,9 +1,9 @@
  <header>
-        <a href="./index.php"><img class="logo" src="The top image name.png" alt="jQuery Logo" width=193px height=69px></a>
+        <a href="./index.php"><img class="logo" src="img/jQueryTopLogo.jpg" alt="jQuery Logo" width=193px height=69px></a>
 
         <!-- Main navigation -->    
         <ul class="main-nav">
-            <li><a href="Event.php">EVENT</a></li>
+            <li><a href="Event.php">EVENTS</a></li>
             <li><a href="Hide.php">HIDE</a></li>
             <li><a href="Slide.php">SLIDE</a></li>
             <li><a href="Animate.php">ANIMATE</a></li>

@@ -6,7 +6,7 @@ include './includes/meta.php';
 ?>
 
 <!-- HTML AND JQUERY CODE GOES HERE -->
-<h1 style="text-align:center">Event</h1>
+<h1 style="text-align:center">Events</h1>
 <script>
     
 </script>
