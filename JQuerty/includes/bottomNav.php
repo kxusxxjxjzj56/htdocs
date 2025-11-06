@@ -1,10 +1,10 @@
 <!-- FOOTER SECTION -->
  <footer>
     <div class="container">
-<a id="logo" href="./"><img src="img/jQueryBottomLogo.jpg"  alt="jQuery Logo" width=193px height=1px></a>
+<a id="logo" href="./"><img src="img/jQueryBottomLogo.jpg"  alt="jQuery Logo" width=193px height=120px></a>
 
 <!--Left side navigation menu-->
-        <ul class="footer-nav">
+        <ul class="footer main-nav">
             <li><a href="Event.php">EVENTS</a></li>
             <li><a href="Hide.php">HIDE</a></li>
             <li><a href="Slide.php">SLIDE</a></li>
