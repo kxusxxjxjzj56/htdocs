@@ -326,7 +326,7 @@ rgba(0,0,0,0.50) 50%);
 
 /*jQuery sections*/
 
-#Events, #Hide, #Show, #Scroll, #Animate, #Slide, #Stop, #Append, #GetSet {
+#Events, #Hide, #Slide, #Animate, #Stop, #Scroll, #Show, #GetSet, #Append {
   background-size: cover;
 background-position: center;
   width: 50%; /*can be changed to any size*/

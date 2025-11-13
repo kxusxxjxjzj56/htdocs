@@ -4,7 +4,7 @@
 
         <!-- Add your site or application content here -->
         <!--p>Hello world! This is HTML5 Boilerplate.</p-->
-        <script src="js/vendor/modernizr-3.11.7.min.js"></script>
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.6.0.min.js"><\/script>');</script>
         <script src="js/plugins.js"></script>

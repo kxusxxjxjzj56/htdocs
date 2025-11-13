@@ -67,11 +67,7 @@ border-radius: 50%;
   <li><a href="#">jQuery</a></li>
  </ul>
 </nav>
-
-<section id="Hide">
-
-
-
+    
 </section>
 
 <script>
@@ -82,6 +78,7 @@ $(document).ready(function(){
 });
 </script>
 <br>
+
 <?php
 include './includes/bottomNav.php';
 

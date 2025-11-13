@@ -7,8 +7,6 @@ include './includes/meta.php';
 
 <!-- HTML AND JQUERY CODE GOES HERE -->
 <h1 style="text-align:center">Scroll</h1>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script scr="main.js"></script>
 
 <a href="subpage.html#section3">
     <div>
@@ -21,6 +19,21 @@ include './includes/meta.php';
         <p>Go to post section</p>
     </div>
 </a>
+<script>
+
+$(document).ready(function(){
+
+    var page_url = window.location.href;
+    var page_id = page_url.substring(page_url.lastIndexOf("#") + 1);
+    if (page_id == "section3") {
+        $("html, body").animate({
+            scrollTop:  $("#scroll-" + page_id).offset().top
+        }, 1000);
+    }
+
+});
+
+</script>
 <?php
 include './includes/bottomNav.php';
 
