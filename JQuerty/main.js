@@ -1,11 +1,16 @@
-$(document).ready(function(){
+let viewLoginPwd = false;
 
-    var page_url = window.location.href;
-    var page_id = page_url.substring(page_url.lastIndexOf("#") + 1);
-    if (page_id == "section3") {
-        $("html, body").animate({
-            scrollTop:  $("#scroll-" + page_id).offset().top
-        }, 1000);
+    function changePwdView ()
+    {
+        let getPwdView = $("#viewPwdLogin");
     }
-
-});
+        if (viewLoginPwd === false)
+    {
+        getPwdView.attr("type", "text");
+        viewLoginPwd = true;
+    }   
+    else if (viewLoginPwd === true)
+    {
+        getPwdView.attr("type","password");
+        viewLoginPwd = false;
+                }
